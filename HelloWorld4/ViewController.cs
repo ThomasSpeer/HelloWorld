@@ -16,7 +16,7 @@ namespace HelloWorld4
 		public override void ViewDidLoad()
 		{
 			base.ViewDidLoad();
-			this.ClickedLabel.StringValue = "not yet clicked";
+			this.ClickedLabel.StringValue = "not yet clicked, not even once, second try";
 		}
 
 		public override NSObject RepresentedObject
